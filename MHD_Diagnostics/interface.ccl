@@ -2,7 +2,7 @@
 # $Header:$
 
 implements: MHD_Diagnostics
-inherits: HydroBaseX ADMBaseX AsterX 
+inherits: HydroBaseX ADMBaseX AsterX AsterAnalysis
 USES INCLUDE HEADER: loop_device.hxx
 
 public:
